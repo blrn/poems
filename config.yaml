@@ -64,7 +64,7 @@ menu:
     #   weight: 100
 params:
   author: Artemis
-  description: "the poems I can share"
+  description: "the poems I'm willing to share and some that I shouldn't"
   keywords: 'blog,personal,poetry,sad girl poetry'
   # img_home: img/home-bg.jpg
   img_404: img/404-bg.jpg
