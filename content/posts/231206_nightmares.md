@@ -13,9 +13,8 @@ series: ["heartbreak"]
 
 I didn't expect the nightmares.  
 I can't escape.  
-They haunt my nights,  
-Torment my days.  
-   
+They haunt my night,  
+Torment my day.  
 I'm scared to sleep,  
 I'm scared to wake,  
 because  
