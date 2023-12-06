@@ -1,3 +1,86 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: 'https://blrn.github.io/poems/'
+title: poems
+theme: puppet
+copyright: ' '
+author: Artemis
+paginate: 15
+languageCode: en
+defaultContentLanguage: en
+enableInlineShortcodes: true
+enableEmoji: true
+ignoreErrors:
+  - error-remote-getjson
+disqusShortname: ''
+googleAnalytics: ''
+outputs:
+  home:
+    - HTML
+    - JSON
+    - RSS
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+markup:
+  highlight:
+    noClasses: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    lineNumbersInTable: false
+    style: dracula
+  goldmark:
+    renderer:
+      unsafe: true
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: -100
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    # - identifier: guide
+    #   name: Guide
+    #   url: /series/themes-guide/
+    #   weight: 20
+    # - identifier: about
+    #   name: About
+    #   url: /about/
+    #   weight: 50
+    # - identifier: github
+    #   name: Github
+    #   url: 'https://github.com/roninro/hugo-theme-puppet/'
+    #   weight: 100
+params:
+  author: Artemis
+  description: "the poems I can share"
+  keywords: 'blog,personal,poetry,sad girl poetry'
+  # img_home: img/home-bg.jpg
+  img_404: img/404-bg.jpg
+  useFaviconGenerator: true
+  custom_js: []
+  custom_css: []
+  sidebar:
+    enable: false
+  social:
+    rss: true
+  giscus:
+    enable: false
+    repo: roninro/hugo-theme-puppet
+    repo_id: R_kgDOHuvyhw
+    category: General
+    category_id: DIC_kwDOHuvyh84CQjDo
+    input_position: top
+    theme: light_tritanopia
+    lang: en
