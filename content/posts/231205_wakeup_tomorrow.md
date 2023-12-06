@@ -18,8 +18,9 @@ But this is different.
 
 I don't want to wake up tomorrow;  
 Without your good night message to read,  
-Without a good morning message to send,  
-Without a random Reel you sent at midnight.  
+Without a good morning message to send to you,  
+Without a random Reel you sent at midnight,  
+Without anything to look forward to.  
 
 I don't want to wake up tomorrow  
 without you.
