@@ -66,8 +66,8 @@ params:
   author: Artemis
   description: "the poems I'm willing to share and some that I shouldn't"
   keywords: 'blog,personal,poetry,sad girl poetry'
-  # img_home: img/home-bg.jpg
-  img_404: img/404-bg.jpg
+  img_home: img/ocean_cropped_dark.jpg
+  img_404: img/ocean.jpg
   useFaviconGenerator: true
   custom_js: []
   custom_css: []
