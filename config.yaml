@@ -12,7 +12,6 @@ googleAnalytics: "G-LJX7XPTKNC"
 ignoreErrors:
   - error-remote-getjson
 disqusShortname: ''
-googleAnalytics: ''
 outputs:
   home:
     - HTML
