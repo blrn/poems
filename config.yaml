@@ -8,6 +8,7 @@ languageCode: en
 defaultContentLanguage: en
 enableInlineShortcodes: true
 enableEmoji: true
+googleAnalytics: "G-LJX7XPTKNC"
 ignoreErrors:
   - error-remote-getjson
 disqusShortname: ''
